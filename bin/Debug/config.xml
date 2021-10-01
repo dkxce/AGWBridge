@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONFIG>
+  <AGW_PORT>8000</AGW_PORT>
+  <COM_PORT>COM13</COM_PORT>
+  <BAUD_RATE>9600</BAUD_RATE>
+  <MAX_CLIENTS>5</MAX_CLIENTS>
+</CONFIG>
