@@ -1,4 +1,4 @@
-# AGW Bridge / AGW Bridge Lacnh
+# AGW Bridge / AGW Bridge Lanch
 
 This is a tool
 to connect UISS or UI-View32 to Lanchonlh 
