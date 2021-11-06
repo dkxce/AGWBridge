@@ -9,4 +9,5 @@ UISS и UI-View32 к радиостанции. Программа
 эмулирует AGWPE и является мостом между
 приложениями и Serial-Bluetooth подключением
 к радиостанции
-<img src="window.png"/>
+<img src="window.png"/>    
+<img src="Setup.png"/>
