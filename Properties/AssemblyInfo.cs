@@ -29,5 +29,5 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("21.09.27.4")]
-[assembly: AssemblyFileVersion("21.09.27.4")]
+[assembly: AssemblyVersion("21.11.07.5")]
+[assembly: AssemblyFileVersion("21.11.07.5")]
